@@ -121,6 +121,8 @@ figure img:hover{
 	margin-top: 5%;
 }
 
-#container {
+
+ul>li>a {
 	background: #DAA520;
+	font-weight: bold
 }
