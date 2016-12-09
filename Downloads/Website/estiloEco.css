@@ -125,5 +125,6 @@ figure img:hover{
 ul>li>a {
 	background: #DAA520;
 	font-weight: bold;
-	height: 100px;
+	height: 50px;
+	margin-left: 10%;
 }
