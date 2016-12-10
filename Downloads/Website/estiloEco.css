@@ -123,6 +123,7 @@ figure img:hover{
 
 #myCarousel2 {
 	background-color: #dadada;
+	max-height: 768px;
 }
 
 ul>li>a {
