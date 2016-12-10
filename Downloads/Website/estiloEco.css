@@ -121,6 +121,9 @@ figure img:hover{
 	margin-top: 5%;
 }
 
+#myCarousel2 {
+	background-color: #dadada;
+}
 
 ul>li>a {
 	background: #DAA520;
