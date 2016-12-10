@@ -140,7 +140,7 @@ ul>li>a:hover {
 
 .thumbnail {
     padding: 0;
-    max-height: 400px;
+    height:100px;
 }
 
 .col-sm-3 {
