@@ -134,7 +134,7 @@ ul>li>a {
 .hide-bullets {
     list-style:none;
     margin-left: -40px;
-    margin-top:25%;
+    margin-top: 20%;
 }
 
 .thumbnail {
@@ -143,4 +143,8 @@ ul>li>a {
 
 .col-sm-3 {
 	margin-top:10%
+}
+
+.col-sm-6 {
+	margin-top: 20%;
 }
