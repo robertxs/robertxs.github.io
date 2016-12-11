@@ -161,3 +161,7 @@ ul>li>a:hover {
 #subtituloproductos{
 	margin-top: 10%;
 }
+
+#imcarousel{
+	height: 768px;
+}
