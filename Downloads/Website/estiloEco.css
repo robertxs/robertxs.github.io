@@ -143,8 +143,7 @@ ul>li>a:hover {
 .thumbnail {
     padding: 0;
     height:100px;
-    margin-top: 5%;
-    position: relative;
+    margin: 0px 10px
 }
 
 .col-sm-3 {
@@ -166,7 +165,7 @@ ul>li>a:hover {
 
 #subtituloproductos{
 	margin-top: 5%;
-	margin-left: 1%;
+	margin-left: 2%;
 	text-align: left;
 }
 
