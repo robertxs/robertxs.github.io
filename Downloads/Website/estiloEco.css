@@ -132,7 +132,9 @@ ul>li>a {
 ul>li>a:hover {
 	background: #DAA520;
 }
-
+ul{
+	background: #ead4d7;
+}
 
 .hide-bullets {
     list-style:none;
