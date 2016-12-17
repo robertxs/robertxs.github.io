@@ -132,8 +132,8 @@ ul>li>a {
 ul>li>a:hover {
 	background: #DAA520;
 }
-ul{
-	background: #ead4d7;
+ul>li{
+	background-color: #ead4d7;
 }
 
 .hide-bullets {
